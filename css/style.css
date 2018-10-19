@@ -3863,7 +3863,7 @@ p.footer-message {
 .contact-widget .cw-phone span {
 	display: block;
 	font-size: 15px;
-	color: #777b83;
+	color: #fff;
 }
 
 .contact-widget .cw-cell {
@@ -3874,7 +3874,7 @@ p.footer-message {
 .contact-widget .cw-cell span {
 	display: block;
 	font-size: 15px;
-	color: #777b83;
+	color: #fff;
 }
 
 .footer .contact-widget .cw-address {
